@@ -1,0 +1,43 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=FARESHARE PCB 2.0
+*Date=10:49:22
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;46.7033;-26.3187;0;Bottom;TXT5
+2;;;54.0435;-34.7303;-90;Bottom;TXT11
+3;;;53.2694;-13.4856;-90;Bottom;TXT4
+4;;THT;55.7558;-18.1639;90;Bottom;J1
+5;;;3.53535;-6.88729;-90;Bottom;TXT7
+6;;cpol-radial-1000uf-25v;26.5433;-40.249;90;Bottom;100uF
+7;;;8.79955;-36.7471;0;Bottom;Barrel Jack (12V)
+8;;ksa_sealed_tac_switch;16.0395;-10.216;90;Bottom;S1
+9;;;3.58189;-22.272;-90;Bottom;TXT7
+10;;;55.9847;-13.448;-90;Bottom;TXT4
+11;;SO16;31.8383;-22.9168;0;Bottom;Motor Control A4988
+12;;;50.7671;-13.9866;-90;Bottom;TXT3
+13;1M;THT;56.1072;-35.1489;90;Bottom;R1
+14;;;34.5628;-26.6602;0;Bottom;Part3
+15;15.4;;43.684;-22.8923;0;Bottom;Nema 17
+16;;;31.8127;-22.9499;0;Bottom;IMG1
+17;;;46.6875;-21.1446;0;Bottom;TXT5
+18;;;58.4638;-13.8431;-90;Bottom;TXT4
+19;;;46.6875;-18.6046;0;Bottom;TXT5
+20;;;55.9644;-21.8386;0;Bottom;TXT10
+21;;;46.7251;-23.7222;0;Bottom;TXT5
+22;;;15.9346;-16.4174;0;Bottom;TXT13
+23;;;19.7449;-40.5172;-90;Bottom;TXT1
+24;;;60.8975;-13.1945;-90;Bottom;TXT12
+25;;;22.9783;-22.5178;-90;Bottom;TXT8
+26;;;8.22617;-43.548;0;Bottom;TXT2
+27;;;41.6789;-22.5814;-90;Bottom;TXT9
+28;;;7.78454;-13.1312;-90;Bottom;TXT6
