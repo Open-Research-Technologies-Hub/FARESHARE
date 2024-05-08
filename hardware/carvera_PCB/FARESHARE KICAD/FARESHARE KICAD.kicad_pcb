@@ -2685,7 +2685,7 @@
 		(at 125 87)
 		(descr "http://www.molex.com/pdm_docs/sd/022232031_sd.pdf")
 		(property "Reference" "J3"
-			(at 4.33 -4.56 360)
+			(at 4.33 -4.56 0)
 			(layer "F.SilkS")
 			(uuid "53113860-f759-4728-a39c-af851690ba81")
 			(effects
@@ -2696,7 +2696,7 @@
 			)
 		)
 		(property "Value" "0022232041"
-			(at 4.08 4.52 360)
+			(at 4.08 4.52 0)
 			(layer "F.Fab")
 			(uuid "4ae05537-7822-4b60-9ee9-f143e23689ce")
 			(effects
@@ -2971,7 +2971,7 @@
 			(uuid "b85a4539-f95e-4077-a0fc-a45d36525603")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.17 0 360)
+			(at 4.17 0 0)
 			(layer "F.Fab")
 			(uuid "814ee3d8-6879-4ef9-aee3-76b5359ba199")
 			(effects
@@ -3028,7 +3028,7 @@
 		(at 112.75 92.25 90)
 		(descr "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English")
 		(property "Reference" "S1"
-			(at 3.81 -2.3368 270)
+			(at 3.81 -2.3368 -90)
 			(layer "F.SilkS")
 			(uuid "9de910de-d115-4f65-9074-57d4c77fb6e5")
 			(effects
@@ -3039,7 +3039,7 @@
 			)
 		)
 		(property "Value" "1825910-6"
-			(at 3.6322 7.0866 270)
+			(at 3.6322 7.0866 -90)
 			(layer "F.Fab")
 			(uuid "fda3c19d-dd0e-406b-bc50-925fad759793")
 			(effects
@@ -3324,7 +3324,7 @@
 			(uuid "f1b9b74b-564c-4017-b8b2-8044d73e0258")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.3782 2.286 270)
+			(at 3.3782 2.286 -90)
 			(layer "F.Fab")
 			(uuid "a6c71955-108f-492d-ae49-89e98b427c84")
 			(effects
@@ -3381,7 +3381,7 @@
 		(at 139.735 86.5)
 		(descr "http://www.molex.com/pdm_docs/sd/022232031_sd.pdf")
 		(property "Reference" "J4"
-			(at 1.45 -4.48 360)
+			(at 1.45 -4.48 0)
 			(layer "F.SilkS")
 			(uuid "bd606b55-661b-432b-8654-f8d95dd52345")
 			(effects
@@ -3392,7 +3392,7 @@
 			)
 		)
 		(property "Value" "22-23-2021"
-			(at 1.23 4.72 360)
+			(at 1.23 4.72 0)
 			(layer "F.Fab")
 			(uuid "077874f6-0a35-4cfa-86c1-aca59cce6b94")
 			(effects
@@ -3707,7 +3707,7 @@
 			(uuid "b533a328-f5e7-4765-aad9-099633f9ce0a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0.03 360)
+			(at 1.25 0.03 0)
 			(layer "F.Fab")
 			(uuid "696507d1-0cdd-47b4-8d79-db04bbc88f2a")
 			(effects
@@ -3743,7 +3743,7 @@
 		(uuid "9c14354d-e019-43c0-9de0-3b0b30c7d5f0")
 		(at 92.5 56.5 90)
 		(property "Reference" "J5"
-			(at 0 -12.1 270)
+			(at 5 5.5 -90)
 			(layer "F.SilkS")
 			(uuid "881aedf4-70e6-4998-a336-f2de655b0917")
 			(effects
@@ -3754,7 +3754,7 @@
 			)
 		)
 		(property "Value" "PJ-102A"
-			(at 0 5.8 270)
+			(at 0 5.8 -90)
 			(layer "F.Fab")
 			(uuid "9b15d736-cc20-4a95-9be9-04980a0e4d71")
 			(effects
@@ -5530,8 +5530,9 @@
 		(descr "Arduino UNO R2, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino UNO R2")
 		(property "Reference" "A3"
-			(at 1.27 -3.81 180)
+			(at -0.28 2.76 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8e73ae83-0fde-4126-93ea-d3a824b8b4f3")
 			(effects
 				(font
@@ -7938,6 +7939,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "fb35bfbc-a877-422d-b954-0318aec9099f")
+	)
+	(gr_text "FARESHARE v2.0"
+		(at 147.5 67.5 90)
+		(layer "F.SilkS")
+		(uuid "4ee87a4e-ecff-4e8a-afc8-ea8891df0251")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 85.5 78.74)
