@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.2"
     },
-    "CreationDate": "2024-05-08T09:52:44+01:00"
+    "CreationDate": "2024-05-08T15:22:06+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -49,28 +49,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FARESHARE KICAD-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "FARESHARE KICAD-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "FARESHARE KICAD-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "FARESHARE KICAD-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "FARESHARE KICAD-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
