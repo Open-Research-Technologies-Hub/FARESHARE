@@ -3534,7 +3534,7 @@
 			)
 		)
 	)
-	(global_label "D10"
+	(global_label "D8"
 		(shape input)
 		(at 77.47 168.91 0)
 		(fields_autoplaced yes)
@@ -3546,7 +3546,7 @@
 		)
 		(uuid "5297370a-01ed-4051-b32e-388c7f70cd30")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 84.1442 168.91 0)
+			(at 82.9347 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3556,7 +3556,7 @@
 			)
 		)
 	)
-	(global_label "D5"
+	(global_label "D7"
 		(shape input)
 		(at 223.52 119.38 180)
 		(fields_autoplaced yes)
@@ -3578,7 +3578,7 @@
 			)
 		)
 	)
-	(global_label "D13"
+	(global_label "D10"
 		(shape input)
 		(at 151.13 63.5 180)
 		(fields_autoplaced yes)
@@ -3622,7 +3622,7 @@
 			)
 		)
 	)
-	(global_label "D6"
+	(global_label "D12"
 		(shape input)
 		(at 199.39 114.3 0)
 		(fields_autoplaced yes)
@@ -3634,7 +3634,7 @@
 		)
 		(uuid "7c050489-09e2-48f6-97e2-64c26c3d5a17")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.8547 114.3 0)
+			(at 206.0642 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3688,7 +3688,7 @@
 			)
 		)
 	)
-	(global_label "D9"
+	(global_label "D4"
 		(shape input)
 		(at 214.63 64.77 180)
 		(fields_autoplaced yes)
@@ -3710,7 +3710,7 @@
 			)
 		)
 	)
-	(global_label "D3"
+	(global_label "D5"
 		(shape input)
 		(at 245.11 107.95 90)
 		(fields_autoplaced yes)
@@ -3754,7 +3754,7 @@
 			)
 		)
 	)
-	(global_label "D12"
+	(global_label "D9"
 		(shape input)
 		(at 151.13 58.42 180)
 		(fields_autoplaced yes)
@@ -3766,7 +3766,7 @@
 		)
 		(uuid "bc73db86-fb2f-4a6b-b869-44457007c029")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.4558 58.42 0)
+			(at 145.6653 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,7 +3798,7 @@
 			)
 		)
 	)
-	(global_label "D11"
+	(global_label "D13"
 		(shape input)
 		(at 135.89 166.37 0)
 		(fields_autoplaced yes)
@@ -3886,7 +3886,7 @@
 			)
 		)
 	)
-	(global_label "D8"
+	(global_label "D3"
 		(shape input)
 		(at 214.63 59.69 180)
 		(fields_autoplaced yes)
@@ -3908,7 +3908,7 @@
 			)
 		)
 	)
-	(global_label "D4"
+	(global_label "D6"
 		(shape input)
 		(at 234.95 107.95 90)
 		(fields_autoplaced yes)
@@ -3996,7 +3996,7 @@
 			)
 		)
 	)
-	(global_label "D7"
+	(global_label "D11"
 		(shape input)
 		(at 199.39 110.49 0)
 		(fields_autoplaced yes)
@@ -4008,7 +4008,7 @@
 		)
 		(uuid "f6dd229d-59e6-4886-9889-66c471996658")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.8547 110.49 0)
+			(at 206.0642 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5720,7 +5720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal"
 			(at 52.07 51.816 0)
 			(effects
 				(font
